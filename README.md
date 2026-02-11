@@ -14,7 +14,8 @@
  เมื่อสมัครผ่าน GitHub Education ด้วยอีเมลสถานศึกษา นักเรียนจะได้รับ Student Developer Pack ซึ่งรวมเครื่องมือพรีเมียม ที่ปกติคนทั่วๆ ไปต้องเสียตังค์ แต่นักเรียนใช้ฟรี เช่น เครดิต Cloud, เครื่องมือออกแบบ รวมถึงคอร์สเรียนต่างๆ ด้วย
 
 ## เริ่มต้น
-
+- ติดตั้ง Git
+  
 
 ## การใช้ GitHub-Cli
 *คำสั่ง,การใช้งาน
@@ -24,4 +25,10 @@ gh repo create,สร้าง Repository ใหม่บน GitHub จาก Te
 gh repo clone <name>,Clone repo ลงเครื่อง (จัดการเรื่องสิทธิ์ให้อัตโนมัติ)
 gh pr create,สร้าง Pull Request โดยไม่ต้องเปิด Browser
 gh browse,เปิดหน้าเว็บของ Repo ปัจจุบันบน Browser ทันที 
+
+
+
+'''bash
+gh remote -v
+'''
 
