@@ -19,12 +19,12 @@
 
 ## การใช้ GitHub-Cli
 *คำสั่ง,การใช้งาน
-gh auth login,สำคัญที่สุด: ใช้สำหรับ Login และตั้งค่าสิทธิ์การเข้าถึง
-gh auth status,ตรวจสอบว่าตอนนี้คุณ Login ค้างไว้ด้วย User ไหน
-gh repo create,สร้าง Repository ใหม่บน GitHub จาก Terminal ได้เลย
-gh repo clone <name>,Clone repo ลงเครื่อง (จัดการเรื่องสิทธิ์ให้อัตโนมัติ)
-gh pr create,สร้าง Pull Request โดยไม่ต้องเปิด Browser
-gh browse,เปิดหน้าเว็บของ Repo ปัจจุบันบน Browser ทันที 
+gh auth login,สำคัญที่สุด: ใช้สำหรับ Login และตั้งค่าสิทธิ์การเข้าถึง <br>
+gh auth status,ตรวจสอบว่าตอนนี้คุณ Login ค้างไว้ด้วย User ไหน <br>
+gh repo create,สร้าง Repository ใหม่บน GitHub จาก Terminal ได้เลย <br>
+gh repo clone <name>,Clone repo ลงเครื่อง (จัดการเรื่องสิทธิ์ให้อัตโนมัติ)<br>
+gh pr create,สร้าง Pull Request โดยไม่ต้องเปิด Browser <br>
+gh browse,เปิดหน้าเว็บของ Repo ปัจจุบันบน Browser ทันที <br>
 
 
 
