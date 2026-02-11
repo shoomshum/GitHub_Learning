@@ -24,4 +24,3 @@ gh repo create,สร้าง Repository ใหม่บน GitHub จาก Te
 gh repo clone <name>,Clone repo ลงเครื่อง (จัดการเรื่องสิทธิ์ให้อัตโนมัติ)
 gh pr create,สร้าง Pull Request โดยไม่ต้องเปิด Browser
 gh browse,เปิดหน้าเว็บของ Repo ปัจจุบันบน Browser ทันที 
-
